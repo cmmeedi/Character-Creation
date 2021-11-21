@@ -1,0 +1,32 @@
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\GameMenu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character_Class_Selection_Screen.CharacterSelectionForm.resources
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character_Class_Selection_Screen.CharactersSelection.resources
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character_Class_Selection_Screen.Properties.Resources.resources
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\GameMenu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\GameMenu.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character Class Selection Screen.exe
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character Class Selection Screen.pdb
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\Character Class Selection Screen.exe.config
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\Character Class Selection Screen.exe
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\Character Class Selection Screen.pdb
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Desktop\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\GameMenu.csproj.ResolveComReference.cache
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\Character Class Selection Screen.exe.config
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\Character Class Selection Screen.exe
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\Character Class Selection Screen.pdb
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\GameMenu.csproj.AssemblyReference.cache
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Interop.WMPLib.dll
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\GameMenu.csproj.ResolveComReference.cache
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character_Class_Selection_Screen.CharacterSelectionForm.resources
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character_Class_Selection_Screen.CharactersSelection.resources
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character_Class_Selection_Screen.Properties.Resources.resources
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\GameMenu.csproj.GenerateResource.cache
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\GameMenu.csproj.CoreCompileInputs.cache
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character Class Selection Screen.exe
+C:\Users\Chest\OneDrive - Grand Canyon University\DownLoaded Repos\Cmeedi-character-creation-menu-ebcc15b1a898\Character Class Selection Screen\obj\Debug\Character Class Selection Screen.pdb
